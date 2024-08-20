@@ -1,6 +1,6 @@
 <h1>Marketing Strategy and Operations for VANA</h1>
 
- ### [Project Fles](https://github.com/karnanijr1001/Marketing-Strategy-and-Operations-for-Vana/new/main)
+ ### [Project Files](https://github.com/karnanijr1001/Marketing-Strategy-and-Operations-for-Vana/new/main)
 
 <h2>Description</h2>
 Project consists of demographics and marketing strategy for VANA <br/>
